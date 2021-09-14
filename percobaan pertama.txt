@@ -3,3 +3,5 @@ Ini adalah percobaan pertama saya dalam belajar github
 - belajar flutter
 - belajar ui/ux
 - belajar dart
+- belajar data data synthesis
+- belajar bahasa inggris
